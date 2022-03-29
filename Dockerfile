@@ -1,2 +1,2 @@
-FROM prashantadmin/new
+FROM prashantadmin / new
 ADD . /var/www/html
